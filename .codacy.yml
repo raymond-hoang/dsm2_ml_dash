@@ -1,0 +1,8 @@
+---
+exclude_paths:
+  - 'dsm2_ml_dash/_version.py'
+  - 'tests/**/*'
+  - 'tests/*'
+  - 'benchmarks/**/*'
+  - 'setup.py'
+  - 'versioneer.py'

@@ -1,0 +1,7 @@
+[report]
+omit =
+    setup.py
+    dsm2_ml_dash/__main__.py
+    dsm2_ml_dash/_version.py
+    versioneer.py
+    tests/*
